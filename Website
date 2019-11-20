@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html> 
+
+<body style="background-color:Blue;">
+  <p style="color:white; text-align:center; font-size:300%;"> Max C <br>
+    
+<img
+src="https://nesncom.files.wordpress.com/2018/05/jayson-tatum-lebron-james2.jpg" Width="600" Height="350" > 
+ 
+   <ul style="color:black; list-style-type:circle; font-size:100%; ">
+  <li>Jason Tatum is dunking on Lebron James</li>
+ <li>Lebron James wears number 23</li>
+  <li>Jason Tatum is on the Boston Celtics</li>
+  </ul>
+
+  <p>Who is a better basketball player?</p>
+
+<form action="/action_page.php">
+<input type="checkbox" name="vehicle1" value="Bike">Lebron James
+<br>
+<input type="checkbox" name="vehicle2" value="Car">Jason Tatum
+<br><br>
+<input type="submit">
+</form> 
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3PPci3nXFoQ" frameborder="0" allowfullscreen></iframe>
+
+  
+
+<a href="www.espn.com"> Peep ESPN for the best sports news </a> <br>    
+  
+
+</p>  
+
+</body>
+
+</html>
